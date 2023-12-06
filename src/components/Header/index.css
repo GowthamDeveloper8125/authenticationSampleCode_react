@@ -1,0 +1,9 @@
+/* Write your CSS code here */
+.HeaderContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.Homepara {
+  margin-right: 10px;
+}
